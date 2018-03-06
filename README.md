@@ -1,3 +1,0 @@
-# birRepo
-foo
-Barr
