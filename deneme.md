@@ -1,0 +1,1 @@
+işyü çözüldü diyelim
